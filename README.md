@@ -1,4 +1,4 @@
-# Login_RegiterPHPBackEnd
+# Login_RegisterPHPBackEnd
 Secure PHP Login & Registration System
 A full-stack, responsive user authentication system built using PHP (Object-Oriented MySQLi), MySQL, JavaScript, and CSS. The system supports role-based access control (Admin and User workflows) and implements modern security practices like password hashing.
 
